@@ -513,6 +513,7 @@ text-align: left;
     }
 }
 @media (max-width:420px){
+    
     .faq .ms-5{
         margin-left: 0px !important;
     }
@@ -579,5 +580,13 @@ text-align: left;
     }
 
 
+
+
+}
+@media (max-width:420px){
+    .section-hire .box-hire p{
+        font-size: 10px;
+    }
+    
 }
   
