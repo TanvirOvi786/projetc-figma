@@ -35,6 +35,10 @@ font-family: 'Poppins', sans-serif;*/
    text-align: left;
 
 }
+.nav-link span img{
+    height: 32px;
+    width: 32px;
+}
 .banner{
     background-image: url(../images/banner-1st.png);
     background-position: center;
@@ -87,7 +91,7 @@ font-family: 'Poppins', sans-serif;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 
 }
 .scetion-statistics .row{
@@ -147,7 +151,7 @@ font-family: 'Poppins', sans-serif;*/
 
 /*section-benifits-start*/
 .section-benifits{
-    background:rgba(36, 0, 106, 1);
+    background:#0c003d;
     background-image: url(../images/photo_2022-06-24_18-06-37.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -201,7 +205,7 @@ font-family: 'Poppins', sans-serif;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 }
 .section-dashboard .text-uppercase{
     font-family: Bebas Neue;
@@ -256,7 +260,7 @@ line-height: 28px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 }
 .section-hire .box-hire p{
     font-family: Roboto;
@@ -365,7 +369,7 @@ font-weight: 600;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 }
 .faq img{
     width: 100px;
@@ -395,7 +399,8 @@ margin-left: 17.5%;
 /*section-footer-end*/
 .footer{
     padding:48px 0px;
-    background: rgba(27, 0, 76, 1) !important;
+    background: #2E0067;
+    
 }
 .footer a .one{
  background-color: rgba(75, 0, 114, 1);
