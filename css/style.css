@@ -152,7 +152,7 @@ font-family: 'Poppins', sans-serif;*/
 /*section-benifits-start*/
 .section-benifits{
     background:#0c003d;
-    background-image: url(../images/photo_2022-06-24_18-06-37.jpg);
+    background-image: url(../images/benefitt.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -256,7 +256,7 @@ line-height: 28px;
 /*section-hire-start*/
 .section-hire{
     background:rgba(36, 0, 106, 1);
-    background-image: url(../images/20.png);
+    background-image: url(../images/28.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
