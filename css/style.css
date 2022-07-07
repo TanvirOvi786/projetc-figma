@@ -40,6 +40,7 @@ font-family: 'Poppins', sans-serif;*/
     width: 32px;
 }
 .banner{
+    background:#0c003d;
     background-image: url(../images/banner-1st.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -86,7 +87,7 @@ font-family: 'Poppins', sans-serif;*/
 
 /*scetion-statistics-start*/
 .scetion-statistics{
-    background-color: rgba(46, 0, 103, 1);
+    background:#0c003d;
     background-image: url(../images/22.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -151,6 +152,7 @@ font-family: 'Poppins', sans-serif;*/
 
 /*section-benifits-start*/
 .section-benifits{
+
     background:#0c003d;
     background-image: url(../images/benefitt.png);
     background-position: center;
@@ -200,7 +202,7 @@ font-family: 'Poppins', sans-serif;*/
 
 /*section-dashboard-start*/
 .section-dashboard{
-    background:rgba(36, 0, 106, 1);
+    background:#0c003d;
     background-image: url(../images/28.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -255,7 +257,7 @@ line-height: 28px;
 
 /*section-hire-start*/
 .section-hire{
-    background:rgba(36, 0, 106, 1);
+    background:#0c003d;
     background-image: url(../images/28.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -365,7 +367,7 @@ font-weight: 600;
 /*section-faq-srtart*/
 .faq{
     background-image:url(../images/1.png) ;
-    background-color:rgba(27, 0, 76, 1);
+    background-color: rgba(27, 0, 76, 1);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
